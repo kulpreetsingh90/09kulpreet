@@ -13,11 +13,33 @@ p {
     color: pink;
 }
 
-.social-links-menu{
+.social-navigation a {
 
+   color: #595630;
+
+}
+
+h2.widget-title  {
     color: #595630;
 }
 
-.h2.widget-title  {
-    color: orange;
+.blog .entry-meta a.post-edit-link, .archive .entry-meta a.post-edit-link, .search .entry-meta a.post-edit-link {
+    color: blue;
+}
+
+.site-info a {
+    color: #c32323;
+}
+
+button, input[type="button"], input[type="submit"] {
+
+        background-color: #675f5f;
+}
+
+body.has-header-image .site-title, body.has-header-video .site-title, body.has-header-image .site-title a, body.has-header-video .site-title a {
+   display: none;
+}
+
+.entry-title a {
+    font-weight: bold;
 }
