@@ -9,5 +9,11 @@ Version: 0.1.0
 */
 
 /* test*/
-p {color: pink;
+p {
+    color: pink;
+}
+
+.social-navigation {
+
+    color: #595630;
 }
